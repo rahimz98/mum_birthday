@@ -1,6 +1,5 @@
-import { Button, Grid, Typography } from '@material-ui/core';
+import { Grid, Typography } from '@material-ui/core';
 import React from 'react';
-import { useHistory } from 'react-router-dom';
 import Zille from './IMG_7647.PNG'
 import { makeStyles } from '@material-ui/core/styles';
 import Card from '@material-ui/core/Card';
